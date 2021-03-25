@@ -3,7 +3,7 @@
 Analysis of bank data.  
 Classification of borrowers by the following parameters: marital status, income level, number of children, age, education, gender, type of employment, purpose of the loan. 
 Lemmatization was performed. 
-Portrait of the" worst " lender.
+Portrait of the "worst" lender.
 
 Входные данные от кредитного отдела банка  — статистика о платёжеспособности клиентов. 
 Очищены данные от выбросов, пропусков и дубликатов, а также преобразованы разные форматы данных. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Выделены леммы в значениях столбца и категоризированны данные.
